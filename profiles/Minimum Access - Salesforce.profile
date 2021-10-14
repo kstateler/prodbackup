@@ -10972,6 +10972,9 @@
         <layout>ContactPointPhone-Contact Point Phone Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Kristine__c-Kristine Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Planet__c-Planet Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
